@@ -2,17 +2,22 @@
 layout: page
 title: Dramatis Personae
 permalink: /dramatis-personae/
+author: Ian Knight
 ---
 
 Here are some of the important figures encountered during the course
 of Quartinius Dio's journeys. They are grouped according to where they
 were encountered.
 
-## Metellus Quartinius Dio
+## Mettius Quartinius Dio
 
-Metellus is an augur of the Cohors Auxilia Arcana. He comes from a patrician
+Mettius is an augur of the Cohors Auxilia Arcana. He comes from a patrician
 family and his father owns a significant amount of land near the town of
-Aquae Sulis in the province of Britannia.
+Aquae Sulis in the province of Britannia. He was recruited into the Cohors
+Arcana at the age of 19 when his affinity with the gods became apparent.
+By his request he was posted to Britannia after his _tirocinium_---officially
+because he claimed an interest in Celtic magic but actually so that he might
+remain close to his family.
 
 ## Eboracum
 
@@ -25,7 +30,8 @@ a little amusement.
 
 ### Urbicius Barbarus
 
-Urbicius is a quaestor serving in Eboracum. His family are Pictish and only
-gained Roman citizenship; he took the name Barbarus as a way of owning and
-celebrating his own ancestry. He is generally impatient, but cares deeply
-about the condition of the natives of the province.
+Urbicius is a quaestor serving in Eboracum. His family are Gaelic from north of
+the Vallum Hadriani and only recently gained Roman citizenship; he took the
+cognomen Barbarus as a way of owning and celebrating his own ancestry.
+He is generally impatient, but cares deeply about the condition of the
+natives of the province.

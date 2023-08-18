@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-HAE ACTA METTII QUARTINII DIONI SUMUS, CUSTOS ET AUGUR COHORTIS AUXILIA ARCANA.
+HE ACTA METTII QUARTINII DIONI SUMUS.
+
+CUSTOS ET AUGUR EST COHORTIS AUXILIA ARCANA.
+
+DISCIPULI HISTORIAE ARCANA GRATI SUNT.
 
 This blog is the record of a solo-play campaign in the world of Lex Arcana,
 an alternate-history version of the Roman Empire where the practice of divination
