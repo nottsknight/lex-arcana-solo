@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Lost Property"
-date: 2023-08-17 21:36:00 +0100
+title: "Possessio Amissi (Lost Property)"
+date: 2023-08-18 19:00:00 +0100
 categories: journal entry
+author: M. Quartinius Dio
 ---
 
-### a.d. V Nones Martius MCCXXIX [3rd March, AD 476]
+### a.d. V Non. Mar. MCCXXIX [3rd March, AD 476]
 
 Returning from the south having completed a mission to explain a sudden blight that
 had afflicted several villas in the area of Deva. Two miles from the castrum
