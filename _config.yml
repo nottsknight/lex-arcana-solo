@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Translated from the Latin by Ian Knight.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -33,6 +34,8 @@ theme: minima
 
 minima:
   date_format: "%d %b %Y"
+
+permalink: /:categories/:title
 
 plugins:
   - jekyll-feed
@@ -43,6 +46,7 @@ static_files:
       name: mettius-character-sheet.pdf
       basename: mettius-character-sheet
       extname: .pdf
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -2,8 +2,8 @@
 layout: post
 title: "Possessio Amissi (Lost Property)"
 date: 2023-08-18 19:00:00 +0100
-categories: "journal entry"
 author: Mettius Quartinius Dio
+categories: journal
 ---
 
 ### a.d. V Non. Mar. MCCXXIX [3rd March, AD 476]
