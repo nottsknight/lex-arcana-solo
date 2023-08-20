@@ -23,15 +23,15 @@ remain close to his family.
 
 ### Egnatius Photius
 
-Egnatius Photius is the military legate of the castrum outside Eboracum.
+Egnatius Photius is a military tribune based at the castrum outside Eboracum.
 He is a serious man, confident of his own abilities, and generally slightly
 skeptical of the mission of the Cohors Arcana. He tolerates Quartinius with
 a little amusement.
 
-### Urbicius Barbarus
+### Urbicius Brigantum
 
 Urbicius is a quaestor serving in Eboracum. His family are Gaelic from north of
 the Vallum Hadriani and only recently gained Roman citizenship; he took the
-cognomen Barbarus as a way of owning and celebrating his own ancestry.
+cognomen Brigantum as a way of owning and celebrating his own ancestry.
 He is generally impatient, but cares deeply about the condition of the
 natives of the province.
