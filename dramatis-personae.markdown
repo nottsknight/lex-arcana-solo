@@ -28,10 +28,9 @@ He is a serious man, confident of his own abilities, and generally slightly
 skeptical of the mission of the Cohors Arcana. He tolerates Quartinius with
 a little amusement.
 
-### Urbicius Brigantum
+### Urbicius Novantae
 
 Urbicius is a quaestor serving in Eboracum. His family are Gaelic from north of
-the Vallum Hadriani and only recently gained Roman citizenship; he took the
-cognomen Brigantum as a way of owning and celebrating his own ancestry.
-He is generally impatient, but cares deeply about the condition of the
-natives of the province.
+the Vallum Hadriani and only recently gained Roman citizenship, which shows in
+his accent and manner. He is deeply impatient except when matters to do with
+the natives of the land are brought to him.

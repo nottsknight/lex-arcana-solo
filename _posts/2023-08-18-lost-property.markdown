@@ -74,5 +74,30 @@ I nodded and took the box back. "Thank you, tribune."
 
 #### Dies idem
 
-Eboracum was busy as always, the largest Roman settlement this far north. After asking
-around I was directed to speak to one of the quaestors, a man called Urbicius.
+Eboracum was busy as always, the largest Roman settlement this far north and capital
+of _Britannia Inferior_. After asking around I was directed to speak to one of the quaestors,
+a man called Urbicius. He was busy overseeing the counting of some tax or other
+and was very unimpressed by my interruption. I showed him the box.
+
+He paused for a moment when he looked at it, and before he could say otherwise I asked him,
+"Who are these two?" [_De Societate DT 6, 1d6 result = 6 (+3)_]. After a moment he answered,
+"Friends of mine. Where did you find this?" I explained how I had come across the box.
+Urbicius sighed.
+
+"Geminius Musca is a friend of my brother. Invalided from the legions after he lost
+a hand. He married Flavia three weeks ago. They were meant to be travelling to Deva
+to visit a distant relative..."
+
+"Any idea what this box is? It's sealed." The quaestor shook his head.
+
+"Flavia is was a skilled metalworker, but I've never seen this before. The metal
+looks familiar though..." He turned the box around in the light, and I noticed the dull
+green sheen in the metal as it reflected the sun. "I know Geminius was talking
+about some new material he'd got hold of for his wife."
+
+I explained how I'd found the box and asked whether Urbicius had any idea how
+this couple had planned to make the journey to Deva. He said he didn't, and at that
+I left him to his work. I might have imagined it but he seemed slightly friendlier
+towards me than before---perhaps news of his brother's friends had warmed him to me.
+Regardless, I decided to do as I'd said to Egnatius: I'd track down this couple
+and work out what this object was.
